@@ -54,7 +54,10 @@ It also served as a practical exercise in applying MVC architecture and practici
 
 ## 📸 Screenshots
 
-> *(Insert screenshots of key functionalities here, e.g.: registration page, product list, seller dashboard, admin panel, VNPay payment screen, etc.)*
-
 Example:
+
+![Login Screenshot]![image](https://github.com/user-attachments/assets/70a0b7a8-712e-44d4-885f-dda7717e5225)
+
+
+
 
