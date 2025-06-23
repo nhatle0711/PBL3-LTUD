@@ -56,7 +56,7 @@ It also served as a practical exercise in applying MVC architecture and practici
 
 Example:
 
-![Login Screenshot]![image](https://github.com/user-attachments/assets/70a0b7a8-712e-44d4-885f-dda7717e5225)
+![Login Screenshot](https://github.com/user-attachments/assets/70a0b7a8-712e-44d4-885f-dda7717e5225)
 
 
 
